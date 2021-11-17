@@ -102,26 +102,27 @@
     - [Memory Allocation of various languages](https://youtu.be/mV3wrLBbuuE)
     - [NP-Completeness Introduction](https://youtu.be/mV3wrLBbuuE?t=8695)
 - Object Oriented Programming
-    - Introduction
-    - Classes & its instances
-    - this keyword in Java
-    - Properties
-        - Inheritance
-        - Abstraction
-        - Polymorphism
-        - Encapsulation
-    - Overloading & Overriding
-    - Static & Non-Static
-    - Access Control
-    - Interfaces
-    - Abstract Classes
-    - Singleton Class
-    - final, finalize, finally
-    - Object Class
-    - Generics
-    - Exception Handling
-    - Collections Framework
-    - Lambda Expression
+    - [Introduction](https://youtu.be/BSVKUk58K6U?t=193)
+    - [Classes & its instances](https://youtu.be/BSVKUk58K6U?t=467)
+    - [this keyword in Java](https://youtu.be/BSVKUk58K6U?t=3381)
+    - [Properties](https://youtu.be/BSVKUk58K6U?t=1101)
+        - [Inheritance](https://youtu.be/46T2wD3IuhM?t=147)
+        - [Polymorphism](https://youtu.be/46T2wD3IuhM?t=4224)
+        - [Encapsulation](https://youtu.be/46T2wD3IuhM?t=7027)
+        - [Abstraction](https://youtu.be/46T2wD3IuhM?t=7106)
+    - [Method Overloading](https://youtu.be/46T2wD3IuhM?t=4834) & [Overriding](https://youtu.be/46T2wD3IuhM?t=5365)
+    - [Constructor overloading](https://youtu.be/BSVKUk58K6U?t=4147)
+    - [Static & Non-Static](https://youtu.be/_Ya6CN13t8k?t=1456)
+    - [Access Control](https://youtu.be/W145DXs8fFg?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&t=66)
+    - [Interfaces](https://youtu.be/rgHZa7-Dibg?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&t=1511)
+    - [Abstract Classes](https://youtu.be/rgHZa7-Dibg?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&t=70)
+    - [Singleton Class](https://youtu.be/_Ya6CN13t8k?t=4243)
+    - [final, finalize, finally](https://youtu.be/BSVKUk58K6U?t=5289)
+    - [Object Class](https://youtu.be/W145DXs8fFg?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&t=1943)
+    - [Generics](https://youtu.be/OY2lPr8h93U?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&t=1174)
+    - [Exception Handling](https://youtu.be/OY2lPr8h93U?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&t=3406)
+    - [Collections Framework](https://youtu.be/9ogGan-R1pc?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&t=52)
+    - [Lambda Expression](https://youtu.be/OY2lPr8h93U?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk&t=2897)
     - Enums
     - Fast IO
     - File handling
